@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/alanmaranto/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "variables",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.8"
+    }
+  ],
+  "generated": "2020-07-09T01:39:41.841773Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.4"
+}
